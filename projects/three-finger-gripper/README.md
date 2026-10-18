@@ -19,7 +19,7 @@ The model is documented through multiple CAD views to illustrate the overall con
 
 ### 3.1 Isometric View
 
-![Three-Finger Gripper Isometric View](finger_iso .png)
+![Three-Finger Gripper Isometric View](finger_iso.png)
 
 ### Front View
 
