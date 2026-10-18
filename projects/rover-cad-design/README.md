@@ -38,6 +38,22 @@ The CAD assembly provides a visual representation of the rover's overall mechani
 
 ![Rover Bottom View](Rover_bottom.png)
 
+### Isometric View
+
+![Tyre Isometric View](Tyre_iso.png)
+
+### Front View
+
+![Tyre Front View](Tyre_Front.png)
+
+### Side View
+
+![Tyre Side View](Tyre_side.png)
+
+### Cross-Sectional View
+
+![Tyre Cross-Sectional View](Tyre_cross_Section.png)
+
 ## 4. Software Used
 
 - Fusion 360
@@ -52,13 +68,18 @@ The CAD assembly provides a visual representation of the rover's overall mechani
 - CNC Machined Components
 - Acrylic Sheets - Black
 
-## 6. Engineering Scope
+## 6. Motor Used 
+
+- Robstride 01 motors
+
+  
+## 7. Engineering Scope
 
 The project focuses on mechanical design, component arrangement, chassis layout, and assembly visualisation.
 
 Structural analysis, load capacity, mobility performance, and other validation results are documented only where supported by separate calculations or testing.
 
-## 7. Documentation
+## 8. Documentation
 
 This directory contains selected CAD visualisations of the rover assembly.
 
