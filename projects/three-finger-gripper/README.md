@@ -21,17 +21,25 @@ The model is documented through multiple CAD views to illustrate the overall con
 
 ![Three-Finger Gripper Isometric View](images/gripper-isometric.png)
 
-### 3.2 Front View
 
-![Three-Finger Gripper Front View](images/gripper-front.png)
+## CAD Model Views
 
-### 3.3 Top View
+### Isometric View
 
-![Three-Finger Gripper Top View](images/gripper-top.png)
+![Three-Finger Gripper Isometric View](finger_iso%20(1).png)
 
-### 3.4 Bottom View
+### Front View
 
-![Three-Finger Gripper Bottom View](images/gripper-bottom.png)
+![Three-Finger Gripper Front View](Finger_Front.png)
+
+### Top View
+
+![Three-Finger Gripper Top View](finger_top(1).png)
+
+### Bottom View
+
+![Three-Finger Gripper Bottom View](finger_bottom.png)
+
 
 ## 4. Software Used
 
