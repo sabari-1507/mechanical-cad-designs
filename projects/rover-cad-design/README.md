@@ -42,7 +42,7 @@ The CAD assembly provides a visual representation of the rover's overall mechani
 
 - Fusion 360
 - PrusaSlicer
-- 
+  
 ## 5. Material Used 
 
 - TPU 95A
