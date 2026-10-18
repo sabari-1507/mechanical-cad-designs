@@ -1,67 +1,50 @@
 
 # Three-Finger Robotic Gripper
 
-## Project Overview
+## 1. Project Overview
 
-This project showcases the mechanical CAD design of a three-finger robotic gripper developed for robotic manipulation and prototype applications.
+This project presents the mechanical CAD design of a three-finger robotic gripper. The assembly consists of three gripping fingers arranged around a central base structure.
 
-The design features three gripping fingers arranged around a central base, with the overall assembly modelled and visualised from multiple perspectives.
+The model is documented through multiple CAD views to illustrate the overall configuration, component arrangement, and mechanical layout.
 
-## Design Features
+## 2. Design Features
 
 - Three-finger gripping configuration
-- Mechanical finger and base design
+- Central base and finger-support structure
 - CAD assembly modelling and visualisation
-- Design intended for prototyping and fabrication
+- Mechanical component arrangement
 - Multiple-view representation of the assembly
 
-## CAD Model Views
+## 3. CAD Model Views
 
-### Isometric View
-![Three-Finger Gripper - Isometric View](images/gripper-isometric.png)
+### 3.1 Isometric View
 
-### Front View
-![Three-Finger Gripper - Front View](images/gripper-front.png)
+![Three-Finger Gripper Isometric View](images/gripper-isometric.png)
 
-### Top View
-![Three-Finger Gripper - Top View](images/gripper-top.png)
+### 3.2 Front View
 
-### Bottom View
-![Three-Finger Gripper - Bottom View](images/gripper-bottom.png)
+![Three-Finger Gripper Front View](images/gripper-front.png)
 
-## Software Used
+### 3.3 Top View
 
-- SolidWorks / Autodesk Fusion 360
-  <!-- Keep only the software actually used for this project. -->
+![Three-Finger Gripper Top View](images/gripper-top.png)
 
-## Skills Demonstrated
+### 3.4 Bottom View
 
-- Mechanical CAD modelling
-- Component and assembly design
-- Mechanical layout and visualisation
-- Prototype-oriented design
+![Three-Finger Gripper Bottom View](images/gripper-bottom.png)
 
-## Potential Applications
+## 4. Software Used
 
-- Robotic manipulation
-- Object gripping and handling
-- Robotics prototyping
-- Educational and experimental robotic systems
+- [Specify the CAD software used for this model]
 
-## Project Deliverables
+## 5. Engineering Scope
 
-The portfolio presents CAD screenshots showing the gripper assembly from four different views.
+The project focuses on mechanical CAD modelling, assembly layout, and visualisation of the gripper structure.
 
-Native CAD files, engineering drawings, and prototype files can be provided where available and authorised for sharing.
+Actuation, gripping-force analysis, and functional performance are not covered by this documentation unless supported by separate analysis or testing.
 
-## Contact
+## 6. Documentation
 
-For freelance mechanical CAD modelling, 3D-printing design, and prototype development:
+This directory contains selected CAD screenshots illustrating the gripper from different viewing angles.
 
-- **LinkedIn:** www.linkedin.com/in/sri-sabari-kumaran-m-5370a128a
-- **Email:** sabarikumaran06@gmail.com
-
----
-
-*This project is presented for portfolio purposes. Functional performance, gripping force, and actuation behaviour are not claimed unless separately tested and validated.*
-
+Additional drawings and component documentation may be included where available and authorised for disclosure.
