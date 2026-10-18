@@ -40,15 +40,25 @@ The CAD assembly provides a visual representation of the rover's overall mechani
 
 ## 4. Software Used
 
-- [Specify the CAD software used for this model]
+- Fusion 360
+- PrusaSlicer
+- 
+## 5. Material Used 
 
-## 5. Engineering Scope
+- TPU 95A
+- PETG
+- SS Tube 28 mm (OD)
+- SS Sheet metal 1.5mm
+- CNC Machined Components
+- Acrylic Sheets - Black
+
+## 6. Engineering Scope
 
 The project focuses on mechanical design, component arrangement, chassis layout, and assembly visualisation.
 
 Structural analysis, load capacity, mobility performance, and other validation results are documented only where supported by separate calculations or testing.
 
-## 6. Documentation
+## 7. Documentation
 
 This directory contains selected CAD visualisations of the rover assembly.
 
