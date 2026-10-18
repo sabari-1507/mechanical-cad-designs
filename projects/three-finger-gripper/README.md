@@ -58,8 +58,8 @@ Native CAD files, engineering drawings, and prototype files can be provided wher
 
 For freelance mechanical CAD modelling, 3D-printing design, and prototype development:
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Professional Email]
+- **LinkedIn:** www.linkedin.com/in/sri-sabari-kumaran-m-5370a128a
+- **Email:** sabarikumaran06@gmail.com
 
 ---
 
